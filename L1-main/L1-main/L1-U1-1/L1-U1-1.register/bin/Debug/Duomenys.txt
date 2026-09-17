@@ -1,0 +1,14 @@
+﻿---------------------------------------------------------------------------------------------------------------------------------------
+| Vardas     | Pavardė         |  Gimimo d. |  Ūgis | Pozicija   | Klubas          | Pakviestas           | Kapitonas                 |
+---------------------------------------------------------------------------------------------------------------------------------------
+| Jonas      | Valanciunas     | 1992-00-06 |   211 | centras    | Denver Nuggets  | False                | False                     |
+| Rokas      | Jokubaitis      | 2000-00-19 |   193 | gynėjas    | Maccabi Tel Aviv | False                | False                     |
+| Tadas      | Sedekerskis     | 1998-00-17 |   206 | puolėjas   | Baskonia        | False                | False                     |
+| Gytis      | Radzevicius     | 1995-00-30 |   197 | puolėjas   | Rytas           | False                | False                     |
+| Eimantas   | Bendzius        | 1990-00-23 |   204 | puolėjas   | APU             | False                | False                     |
+| Arnas      | Velicka         | 1999-00-10 |   192 | gynėjas    | Löwen Braunschweig | False                | False                     |
+| Kristupas  | Zemaitis        | 1996-00-24 |   192 | gynėjas    | Lietkabelis     | False                | False                     |
+| Ignas      | Brazdeikis      | 1999-00-08 |   201 | puolėjas   | Zalgiris        | False                | False                     |
+| Marekas    | Blazevic        | 2001-00-01 |   210 | centras    | Tofas           | False                | False                     |
+| Laurynas   | Birutis         | 1997-00-27 |   213 | centras    | Zalgiris        | False                | False                     |
+---------------------------------------------------------------------------------------------------------------------------------------
